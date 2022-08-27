@@ -1,0 +1,7 @@
+Workers:
+  1:
+    Name: "Trabalhador nivel I"
+    Price: 1000
+  2:
+    Name: "Trabalhador nivel II"
+    Price: 2000
